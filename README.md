@@ -50,5 +50,5 @@ fun VerifyHyogeunPermission(grantResults: IntArray) =
     grantResults.isNotEmpty() && grantResults.all { it == PackageManager.PERMISSION_GRANTED }
  ```
 
-## Not Ready Yet So Please Wait
+
   Thx For Senpai Akat32
